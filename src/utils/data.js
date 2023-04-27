@@ -3,8 +3,8 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
+    name: "UW Baja SAE Design Team",
+    projects: 100,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
@@ -15,55 +15,55 @@ export const projectExperience = [
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
+    name: "Great Academic Standing",
+    projects: 4.0,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "I am a student at The University of Waterloo, and aspire to work in the automotive and aerospace industries, with the goal of working in Formula 1 after graduation.",
+  "Through Co-Op experiences I aspire to build and develop both hardware and software skills. And learn the ins-and-outs of these sectors from both industry giants and start-ups",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Bend-All Automotive, Brisbane",
+    tenure: "May 2023 - Aug 2023",
+    role: "R&D Engineer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Fill In Later",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Terroni Group",
+    tenure: "Apr 2022 - Aug 2022",
+    role: "Server Assistant",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Communicated and coordinated with different groups of the restaurant such as kitchen, management, and hosts to provide high quality service to clients as well as to solve any problems effectively and efficiently",
   },
-  {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
-    detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
-  },
+  // {
+  //   place: "Global Solution",
+  //   tenure: "Aug 2014 - Sep 2016",
+  //   role: "Sr. Product Designer",
+  //   detail:
+  //     "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+  // },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
+    name: "Mechanical/Hardware",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      " SolidWorks \n AutoCAD \n Finite Element Analysis \n Failure Analysis \n Test Validation \n Prototyping",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Software",
+    post: "Languages: C++, Python \n Libraries: Numpy, Pandas, SciPy",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Languages: C++, Python \n Libraries: Numpy, Pandas, SciPy",
     img: "./people1.png",
   },
   {
@@ -73,48 +73,48 @@ export const comments = [
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     img: "./people2.png",
   },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
+  // {
+  //   name: "Anamika Sandula",
+  //   post: "Creative Manager",
+  //   comment:
+  //     "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  //   img: "./people1.png",
+  // },
+  // {
+  //   name: "Anamika Sandula",
+  //   post: "Creative Manager",
+  //   comment:
+  //     "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  //   img: "./people2.png",
+  // },
+  // {
+  //   name: "Anamika Sandula",
+  //   post: "Creative Manager",
+  //   comment:
+  //     "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  //   img: "./people1.png",
+  // },
+  // {
+  //   name: "Anamika Sandula",
+  //   post: "Creative Manager",
+  //   comment:
+  //     "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  //   img: "./people2.png",
+  // },
+  // {
+  //   name: "Anamika Sandula",
+  //   post: "Creative Manager",
+  //   comment:
+  //     "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  //   img: "./people1.png",
+  // },
+  // {
+  //   name: "Anamika Sandula",
+  //   post: "Creative Manager",
+  //   comment:
+  //     "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  //   img: "./people2.png",
+  // },
 ];
 
 export const sliderSettings = {

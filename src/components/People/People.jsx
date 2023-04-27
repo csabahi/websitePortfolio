@@ -21,11 +21,12 @@ const People = () => {
 
 
         <div className={`flexCenter ${css.heading}`}>
-          <span className="primaryText">People talk about us</span>
+          <span className="primaryText">Technical Skillset</span>
           <p style={{ marginTop: "2rem" }}>
-            I got a job that was in accordance with the salary and field of work
+            Interested in both mechanical and software I aspire to work on both ends
           </p>
-          <p>The process of submitting an appilication was quite cosy</p>
+          <p>to gain work experience in both, to be able to bridge the two words and design/ </p>
+          <p> systems related to both ends all kinds of systems</p>
         </div>
 
 

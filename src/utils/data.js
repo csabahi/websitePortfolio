@@ -54,24 +54,24 @@ export const workExp = [
 export const comments = [
   {
     name: "Mechanical/Hardware",
-    post: "Creative Manager",
+    post: "",
     comment:
-      " SolidWorks \n AutoCAD \n Finite Element Analysis \n Failure Analysis \n Test Validation \n Prototyping",
-    img: "./people2.png",
+      " SolidWorks, AutoCAD, Finite Element Analysis \n Failure Analysis, Test Validation, Prototyping, DC/AC circtuits",
+    img: "./mechanicalIcon.png",
   },
   {
     name: "Software",
-    post: "Languages: C++, Python \n Libraries: Numpy, Pandas, SciPy",
+    post: "",
     comment:
-      "Languages: C++, Python \n Libraries: Numpy, Pandas, SciPy",
-    img: "./people1.png",
+      "Languages: C++, Python, RobotC, React.js \n Libraries: Numpy, Pandas, SciPy \n Tools: Github",
+    img: "./softwareIcon.png",
   },
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Interests",
+    post: "",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+      "Machine Learning, Artifial Intelligence, Problem Solving, Automotives, Aerspace, Technology, Finance, Biking, Movies, Music ",
+    img: "./interestsIcon.png",
   },
   // {
   //   name: "Anamika Sandula",

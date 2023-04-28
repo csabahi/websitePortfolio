@@ -33,10 +33,10 @@ const Header = () => {
           ref={menuRef}
           style={getMenuStyles(menuOpened)}
         >
-          <li><a href="#experties">Services</a></li>
+          <li><a href="#experties">About Me</a></li>
           <li><a href="#work">Experience</a></li>
           <li><a href="#portfolio">Projects</a></li>
-          <li><a href="#people">Testimonials</a></li>
+          <li><a href="#people">Skills</a></li>
           <li className={`flexCenter ${css.phone}`}>
             <p>+1 (647) 808 3599</p>
             <BiPhoneCall size={"40px"} />

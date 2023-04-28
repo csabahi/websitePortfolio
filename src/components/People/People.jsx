@@ -23,10 +23,10 @@ const People = () => {
         <div className={`flexCenter ${css.heading}`}>
           <span className="primaryText">Technical Skillset</span>
           <p style={{ marginTop: "2rem" }}>
-            Interested in both mechanical and software I aspire to work on both ends
+            Interested in both mechanical and software I aspire to work on both ends,
           </p>
-          <p>to gain work experience in both, to be able to bridge the two words and design/ </p>
-          <p> systems related to both ends all kinds of systems</p>
+          <p>with the goal of being able able to bridge the two words and design/ </p>
+          <p> optimze systems related to both domains. </p>
         </div>
 
 

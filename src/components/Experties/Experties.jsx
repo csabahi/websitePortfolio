@@ -17,7 +17,9 @@ const Experties = () => {
 
             {/* left side */}
             <div className={css.leftSide}>
+                        
                 {
+                
                     projectExperience.map((exp, i)=> {
                         return <motion.div variants = {fadeIn("right", "tween", (i+1)*0.2, 1)} className={css.exp} key={i}>
                             <div style={{background: exp.bg}} className="flexCenter">
@@ -25,7 +27,7 @@ const Experties = () => {
                             </div>
                             <div>
                                 <span>{exp.name}</span>
-                                <span className='secondaryText'>{exp.projects} GPA</span>
+                                <span className='secondaryText'>{exp.projects}</span>
                             </div>
                         </motion.div>
                     })
@@ -42,7 +44,7 @@ const Experties = () => {
                 {WhatDoIHelp.map((paragraph, i)=> <span className='secondaryText' key={i}>{paragraph}</span>)}
 
 
-                <div className={`flexCenter ${css.stats}`}>
+                {/* <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
                         <span className='primaryText'>285+</span>
                         <span className='secondaryText'>Project Completed</span>
@@ -51,7 +53,7 @@ const Experties = () => {
                         <span className='primaryText'>190+</span>
                         <span className='secondaryText'>Happy Clients</span>
                     </div>
-                </div>
+                </div> */}
             </motion.div>
         </motion.div>
     </section>

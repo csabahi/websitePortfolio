@@ -33,8 +33,9 @@
             justify-content: space-between;
             .experience {
                 display: flex;
-                align-items: center;
-                gap: 1rem;
+                align-items: left;
+                gap: 2rem;
+                margin-bottom: 1rem;
                 >:nth-child(2) {
                     line-height: 25px;
                 }
@@ -42,15 +43,16 @@
 
             .certificate {
                 display: flex;
-                flex-direction: column;
                 align-items: center;
+                flex-direction: column;
 
                 img {
-                    margin-bottom: 1rem;
-                    width: 3.5rem;
+                    margin-bottom: 0.5rem;
+                    width: 4.5rem;
                 }
             }
         }
+
 
         .person {
             @media (max-width: $sm ), (max-width: $md) {
@@ -67,12 +69,12 @@
             margin: auto;
             background-image: url("../splash.png");
             background-repeat: no-repeat;
-            background-size: 23rem;
+            background-size: 26rem;
             left: 33%;
 
             img {
                 @media (max-width: $sm ) {
-                    width: 23rem;
+                    width: 53rem;
                 }
                 margin-bottom: -5px;
             }
@@ -86,7 +88,7 @@
             position: absolute;
             top: 50%;
             left: 0;
-            color: orange;
+            color: blue;
         }
     }
 }
